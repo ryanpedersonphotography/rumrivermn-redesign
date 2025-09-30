@@ -1,0 +1,39 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.idea
+.vscode
+*.swp
+*.swo
+*~
+# Local Netlify folder
+.netlify
+
+# Image and media files
+/files/**/*.jpg
+/files/**/*.jpeg
+/files/**/*.png
+/files/**/*.gif
+/files/**/*.webp
+/files/**/*.svg
+/files/**/*.ico
+/files/**/*.mp4
+/files/**/*.mov
+/files/**/*.avi
+/files/**/*.pdf
+
+# WordPress media
+/wp-content/**/*.jpg
+/wp-content/**/*.jpeg
+/wp-content/**/*.png
+/wp-content/**/*.gif
+/wp-content/**/*.webp
+/wp-content/**/*.svg
+/wp-content/**/*.pdf
